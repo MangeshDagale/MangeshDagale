@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JAVA,MERN,HTML,CSS,JAVASCRIPT,Bootstrap,Codeigniter-4,Python,Flask,MySQL,PostgreSQL**
 
-- 💬 Ask me about **Frontend developer**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **mangeshdagale17@gmail.com**
 
